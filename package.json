@@ -7,6 +7,7 @@
     "Cris Mihalache <me@f3rno.com>"
   ],
   "dependencies": {
+    "bfx-api-node-models": "^1.0.10",
     "binance-api-node": "^0.9.2",
     "bluebird": "^3.5.5",
     "debug": "^4.1.1",
